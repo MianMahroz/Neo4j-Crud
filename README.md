@@ -1,1 +1,1 @@
-# Neo4j-Crud
+# spring-boot-neo4j-example
